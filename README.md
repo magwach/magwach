@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on diving deeper into full-stack development with React, Redux, and MongoDB.<br>👯 I’m looking to collaborate on open-source projects related to full-stack development, building scalable web applications, API integration, database design, or anything that bridges front-end and back-end to deliver seamless user experiences.<br>🌱 I’m currently learning best practices for scalable React applications and improving my efficiency with database management (especially in MongoDB)<br>💬 Ask me about Anything related to building visualizations with D3.js, front-end development with React, or back-end architecture with Node.js and databases.<br>⚡ Fun fact JavaScript, the language that powers much of the web, was created in just 10 days!
+🚀 I’m currently exploring back-end development with Go (Golang) and PostgreSQL, building efficient APIs and scalable systems.<br>👯 I’m open to collaborating on projects involving Go, RESTful APIs, database design, or full-stack development.<br>🌱 I’m focused on mastering clean architecture, concurrency in Go, and optimized database interactions.<br>💬 Ask me about anything related to Go, PostgreSQL, or connecting back-end systems with front-end applications.<br>⚡ Fun fact: Go’s simplicity and speed make it one of the best languages for modern back-end development!
 
 
 # 💻 Tech Stack:
@@ -17,5 +17,3 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=magwach&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

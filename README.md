@@ -1,7 +1,8 @@
 # 💫 About Me:
 🚀 I’m currently exploring back-end development with Go (Golang) and PostgreSQL, building efficient APIs and scalable systems.<br>👯 I’m open to collaborating on projects involving Go, RESTful APIs, database design, or full-stack development.<br>🌱 I’m focused on mastering clean architecture, concurrency in Go, and optimized database interactions.<br>💬 Ask me about anything related to Go, PostgreSQL, or connecting back-end systems with front-end applications.<br>⚡ Fun fact: Go’s simplicity and speed make it one of the best languages for modern back-end development!
 
-![Static Badge](https://img.shields.io/badge/:visitors-1845)
+![Static Badge](https://img.shields.io/badge/visitors-1865-blue)
+
 
 
 # 💻 Tech Stack:
